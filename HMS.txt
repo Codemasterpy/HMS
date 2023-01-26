@@ -1,0 +1,41 @@
+Requirement Analysis:
+    System Design
+    Object Design
+    Mockups
+    Class Digram (ER Digram)
+
+Which type of application you are developing - users types
+HMS: 5 different types of users
+    Admin
+    Manager
+    Reception
+    Staff - cleaning, staff management
+    Guest
+
+Planning: Listing activities for our entire project - Agile Methadoloy
+    Requirements may change over the period 
+
+Progress of each and every activity:
+    Sprint - Review of your activitites & progress of your work for that specific activity project status
+             Duration: weekly once, once in two weeks or 4 weeks
+    Rectrospective: Improvements required
+
+Server - Cloud and in premises servers
+
+Deployment 
+
+CI/CD - Continuous Improvement & Continuous Deployment - DevOps
+
+Example:
+2 year - 1 project - 10 members
+Client wants this project should be in production in 4 months
+WBS - Breakdown our entire project in to multiple parts - module 1, module 2........
+Version 1, version 2, version 3
+Version 1 may contain 5 pages UI
+Version 2 may contain 5 pages UI + V1 5 pages
+Version 3 may contain 5 pages UI
+
+
+Install :
+
+pip install django-phonenumber-field[phonenumbers]
